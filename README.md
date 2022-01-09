@@ -3,16 +3,18 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 Skills:<br>
+&emsp;    -Solidity/Rust<br>
+&emsp;    -Ethereum/Solana/Polygon/Wix<br>
+&emsp;    -NFT/De-Fi/Smart Contracts<br>
 &emsp;    -React/Next.js/Gatsby<br>
 &emsp;    -Material UI/Ant Design<br>
-&emsp;    -Angular<br>
+&emsp;    -Chakra UI/Ant Design<br>
 &emsp;    -Vue.js/Nuxt.js<br>
 &emsp;    -JavaScript/TypeScript/jQuery<br>
 &emsp;    -CSS/SCSS/Tailwind CSS<br>
 &emsp;    -HTML5<br>
 &emsp;    -Google/AWS/Git<br>
 &emsp;    -Node.js/Express.js/Nest.js<br>
-&emsp;    -Laravel/PHP<br>
 &emsp;    -MongoDB/MySQL/Postgresql/GraphQL<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 
