@@ -1,5 +1,5 @@
 ### Hello! 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pooh-88&show_icons=true&locale=en" alt="Pooh-88" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nftPower88&show_icons=true&locale=en" alt="Pooh-88" />
 <h3 align="center">A passionate full stack developer.</h3>
 
 Skills:<br>
